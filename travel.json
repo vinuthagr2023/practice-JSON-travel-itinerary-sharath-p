@@ -1,0 +1,42 @@
+{
+    "tripName": "International Dream Vacation",
+    "traveler": {
+        "name": "Meghana",
+        "contact": {
+            "email": "megha@gmail.com",
+            "phone": "+1-666-444-1236"
+        }
+    },
+    "destinations": [
+        {
+            "location": "London",
+            "arrivalDate": "2026-11-05",
+            "departureDate": "2026-11-10",
+            "activities": [
+                {
+                    "title": "Visit Big Ben and Westminster Abbey",
+                    "time": "10:00 AM"
+                },
+                {
+                    "title": "Explore the British Museum",
+                    "time": "2:30 PM"
+                }
+            ]
+        },
+        {
+            "location": "Switzerland",
+            "arrivalDate": "2026-11-11",
+            "departureDate": "2026-11-16",
+            "activities": [
+                {
+                    "title": "Visit Swiss Alps",
+                    "time": "9:00 AM"
+                },
+                {
+                    "title": "Take a Lake Geneva Cruise",
+                    "time": "5:00 PM"
+                }
+            ]
+        }
+    ]
+}
