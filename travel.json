@@ -11,7 +11,7 @@
         {
             "location": "London",
             "arrivalDate": "2026-11-05",
-            "departureDate": "2026-11-10",
+            "departureDate": "2026-11-20",
              "transportation":[
                 {
                     "mode":"flight",
