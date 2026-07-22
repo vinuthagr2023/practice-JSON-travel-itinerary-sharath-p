@@ -12,6 +12,13 @@
             "location": "London",
             "arrivalDate": "2026-11-05",
             "departureDate": "2026-11-10",
+             "transportation":[
+                {
+                    "mode":"flight",
+                    "cost":"$200"
+                }
+
+            ],
             "activities": [
                 {
                     "title": "Visit Big Ben and Westminster Abbey",
@@ -27,6 +34,13 @@
             "location": "Switzerland",
             "arrivalDate": "2026-11-11",
             "departureDate": "2026-11-16",
+             "transportation":[
+                {
+                    "mode":"bus",
+                    "cost":"$40"
+                }
+
+            ],
             "activities": [
                 {
                     "title": "Visit Swiss Alps",
@@ -34,6 +48,28 @@
                 },
                 {
                     "title": "Take a Lake Geneva Cruise",
+                    "time": "5:00 PM"
+                }
+            ]
+        },
+        {
+            "location": "Rome",
+            "arrivalDate": "2026-06-15",
+            "departureDate": "2026-06-19",
+            "transportation":[
+                {
+                    "mode":"train",
+                    "cost":"$50"
+                }
+
+            ],
+            "activities": [
+                {
+                    "title": "Tour the Colosseum",
+                    "time": "9:00 AM"
+                },
+                {
+                    "title": "Explore Vatican Museums",
                     "time": "5:00 PM"
                 }
             ]
